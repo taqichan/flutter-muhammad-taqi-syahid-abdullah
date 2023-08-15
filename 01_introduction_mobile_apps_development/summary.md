@@ -1,23 +1,13 @@
-Mobile Apps Development
+Introduction Mobile Apps Development - 16 Agustus 2023
 
 Software = Kumpulan perintah yang terorganisir
 
-Web, menggunakan web browser, pake int
-Dekstop/laptop, bisa dibuka tanpa int
-Mobile smartphone atau tablet
+Web = menggunakan web browser, pake internet
+Dekstop/laptop = bisa dibuka tanpa intnternet
+Mobile = smartphone atau tablet
 
-Bahasa pemrograman rangkaian teks untuk memberi perintah 
+Bahasa pemrograman = rangkaian teks untuk memberi perintah 
 
-compailer dan interpreter
+Compailer = langsung diubah ke bahasa mesin 
 
-source code => compailer => .exe
-
-Interpreter 
-
-source code diduplikat => interpreter => 
-
-compailer lebih cepat
-
-tahapan dart
-
-source code => compailer => .apk/.ipa
+Interpreter = diduplikat dulu
