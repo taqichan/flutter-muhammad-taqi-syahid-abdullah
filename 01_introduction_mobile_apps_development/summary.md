@@ -13,3 +13,11 @@ Bahasa pemrograman = rangkaian teks untuk memberi perintah
 Compailer = langsung diubah ke bahasa mesin 
 
 Interpreter = diduplikat dulu
+
+.gitkeep
+
+satu org ngerjain satu fitur
+
+judul page jd nama fitur
+
+stashes buat save
