@@ -1,0 +1,1 @@
+link tugas : https://docs.google.com/document/d/1V6M3YuRarG38wIMODV-7YceDXAoFQYptSSieG6Qn_BY/edit
