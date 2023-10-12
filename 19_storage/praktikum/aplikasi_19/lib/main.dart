@@ -1,3 +1,4 @@
+import 'package:aplikasi_19/login.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,6 +10,12 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return MaterialApp(
+      title: 'Aplikasi 19',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: LoginPage(),
+    );
   }
 }
